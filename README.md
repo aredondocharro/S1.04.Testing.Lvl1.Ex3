@@ -1,4 +1,4 @@
-# 📄 Testing with JUnit DNI Calculator
+# 📄 Testing with JUnit ArrayHandlerTest
 
 ## 📄 Description - Exercise Statement
 Create a class with a method that throws an ArrayIndexOutOfBoundsException.
